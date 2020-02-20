@@ -1,4 +1,6 @@
 {
-    "python.pythonPath": "C:\\Users\\devan\\AppData\\Local\\Programs\\Python\\Python38\\python.exe",
-    "python.linting.pylintPath": "/c/Users/devan/AppData/Local/Programs/Python/Python38/Scripts/pylint"
+    "python.pythonPath": "/usr/bin/python",
+    "python.linting.pylintPath": "/c/Users/devan/AppData/Local/Programs/Python/Python38/Scripts/pylint",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": false
 }

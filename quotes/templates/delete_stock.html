@@ -6,8 +6,8 @@
 {% if ticker %}
 
     {% for item in ticker %}
-       <a href="{% url 'delete' item.id %}" class = "btn btn-success">
-        Delete {{item}}<a/><br/><br/>
+       <a href="{% url 'delete' item.id %}" class = "btn btn-success btn-lg">
+        Delete {{item}}</a><br/><br/>
 
     {% endfor %}
 {% else %}
